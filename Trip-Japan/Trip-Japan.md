@@ -276,3 +276,4 @@ shelter，18:00才會開放的俱樂部，就是動漫裡的starry啦
 * [去下北澤朝聖《孤獨搖滾》取景地！STARRY的原型與街頭風景你都猜到在哪了嗎？](https://www.japaholic.com/tw/article/detail/925867-%E5%8E%BB%E4%B8%8B%E5%8C%97%E6%BE%A4%E6%9C%9D%E8%81%96%E3%80%8A%E5%AD%A4%E7%8D%A8%E6%90%96%E6%BB%BE%E3%80%8B%E5%8F%96%E6%99%AF%E5%9C%B0%EF%BC%81STARRY%E7%9A%84%E5%8E%9F%E5%9E%8B%E8%88%87%E8%A1%97%E9%A0%AD%E9%A2%A8%E6%99%AF%E4%BD%A0%E9%83%BD%E7%8C%9C%E5%88%B0%E5%9C%A8%E5%93%AA%E4%BA%86%E5%97%8E%EF%BC%9F)
 * [達人專欄 《孤獨搖滾！》下北澤聖地巡禮](https://home.gamer.com.tw/creationDetail.php?sn=5595532)
 * [一篇搞定！澀谷必去景點15選](https://www.gltjp.com/zh-hant/article/item/20511/)
+* [日本东京 | 涩谷攻略，7个景点逛完日本涩谷](https://www.xiaohongshu.com/explore/6606733a000000001a012741)
