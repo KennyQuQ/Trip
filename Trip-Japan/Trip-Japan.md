@@ -1,8 +1,20 @@
 #### Day ?: Shimokitazawa & Shibuya (下北澤 & 澀谷)
 
-### 早上 - 下北澤 (09:00 ~ 16:00) ?
+### 早上 - 下北澤 (09:00 ~ 16:00)
 
 * *[**下北沢駅**](#1)*.
+* *[**本多劇場**](#2)*.
+* *[**劇・小劇場**](#3)*.
+* *[**下北沢SHELTER**](#4)*.
+* *[**モスバーガー下北沢北口店**](#5)*.
+* *[***タイムズ下北沢第８***](#6)*.
+* *[***ADRIFT***](#7)*.
+* *[**サウナ＆カプセルミナミ 下北沢店**](#8)*.
+* *[**タイムズ代沢第５**](#9)*.
+*  ***[**For Eating**](#10)***
+
+### 晚上 - 澀谷 (17:00 ~ 22:00)
+* *[**澀谷十字路口**](#11)*.
 * *[**本多劇場**](#2)*.
 * *[**劇・小劇場**](#3)*.
 * *[**下北沢SHELTER**](#4)*.
@@ -37,7 +49,7 @@
 ![](Pasted%20image%2020240430094427.png)
 著名的本多劇場，具體來說是「ヴィレッジヴァンガード （Village Vanguard）」這側，這間店從衣物到書籍，電影音樂商品至動漫商品都有販售，是筆者相當喜愛的次文化寶庫，基本上經過都會進去閒晃，也相當推薦各位去尋寶，下北澤店應該是規模最大的。
 在本多劇場附近，這個販賣機就在本多劇場那個十字路口吧，不記得了
-[Google Maps](https://www.google.com/maps?ll=35.661484,139.668602&z=16&t=m&hl=zh-TW&gl=TW&mapclient=embed&cid=16964935770679989309)
+#### [Google Maps](https://www.google.com/maps?ll=35.661484,139.668602&z=16&t=m&hl=zh-TW&gl=TW&mapclient=embed&cid=16964935770679989309)
 
 ![](Pasted%20image%2020240430094819.png)
 ![](Pasted%20image%2020240430094448.png)
@@ -63,7 +75,7 @@
 
 上述的小路走過後就能在右方看到作中最重要的場景，Live house STARRY。
 shelter，18:00才會開放的俱樂部，就是動漫裡的starry啦
-[Google Maps](https://www.google.com/maps/place/Shelter/@35.662027,139.669989,19z/data=!4m6!3m5!1s0x6018f36a1800c2b1:0x8441942493bd853a!8m2!3d35.661482!4d139.6694661!16s%2Fg%2F1td_ymxw?hl=zh-TW&entry=ttu)
+#### [Google Maps](https://www.google.com/maps/place/Shelter/@35.662027,139.669989,19z/data=!4m6!3m5!1s0x6018f36a1800c2b1:0x8441942493bd853a!8m2!3d35.661482!4d139.6694661!16s%2Fg%2F1td_ymxw?hl=zh-TW&entry=ttu)
 
 ![](Pasted%20image%2020240430095001.png)
 ![](Pasted%20image%2020240430095009.png)
@@ -84,7 +96,7 @@ shelter，18:00才會開放的俱樂部，就是動漫裡的starry啦
 
 小型停車場，對面有市集和攤販。
 谷歌搜尋no.8 car park,是拍名場景合照的地方
-[Google Maps](https://www.google.com/maps/place/Times+Shimo-Kitazawa+No.8+Car+Park/@35.6626573,139.6666031,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f36a5c99185f:0x3b76dd581fba51d9!8m2!3d35.662653!4d139.669178!16s%2Fg%2F1w04k45d?hl=zh-TW&entry=ttu)
+#### [Google Maps](https://www.google.com/maps/place/Times+Shimo-Kitazawa+No.8+Car+Park/@35.6626573,139.6666031,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f36a5c99185f:0x3b76dd581fba51d9!8m2!3d35.662653!4d139.669178!16s%2Fg%2F1w04k45d?hl=zh-TW&entry=ttu)
 
 ![](Pasted%20image%2020240430095058.png)
 ![](Pasted%20image%2020240430095110.png)
@@ -157,15 +169,27 @@ shelter，18:00才會開放的俱樂部，就是動漫裡的starry啦
 十分推薦《孤獨搖滾》第七話中有登場的這家名店46ma。46ma在下北澤咖哩祭活動的前身咖哩王座決定戰中，連續兩屆拿下優勝。而菜單上其實只有雞肉咖哩一種品項，並且只靠這個味道就在下北澤屹立不搖。
 ![](Pasted%20image%2020240430101104.png)
 
-[Google Maps](https://www.google.com/maps/place/46ma/@35.661694,139.669445,17z/data=!4m6!3m5!1s0x6018f36a17d2da19:0x4bc03d8aa3019f2f!8m2!3d35.6616939!4d139.6694452!16s%2Fg%2F1hcb5zphd?hl=zh-TW&entry=ttu)
+#### [Google Maps](https://www.google.com/maps/place/46ma/@35.661694,139.669445,17z/data=!4m6!3m5!1s0x6018f36a17d2da19:0x4bc03d8aa3019f2f!8m2!3d35.6616939!4d139.6694452!16s%2Fg%2F1hcb5zphd?hl=zh-TW&entry=ttu)
 
 ### Kabuto Shimokita
 ![](c9252e6c6cd289c588c3381bc77b1dfc.jpg)
-[Google Maps](https://www.google.com/maps/place/Kabuto+Shimokita/@35.6618204,139.6699143,15z/data=!4m2!3m1!1s0x0:0x64b84bf26b43eae7?sa=X&ved=1t:2428&ictx=111)
+#### [Google Maps](https://www.google.com/maps/place/Kabuto+Shimokita/@35.6618204,139.6699143,15z/data=!4m2!3m1!1s0x0:0x64b84bf26b43eae7?sa=X&ved=1t:2428&ictx=111)
+
+## 11
+### 澀谷十字路口
+#### [Google Maps](https://www.google.com/maps/place/%E6%B8%8B%E8%B0%B7%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB%E4%BA%A4%E5%B7%AE%E7%82%B9/@35.659482,139.7005596,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMoK7a4ASJSdLotFzjmO5uFNEUNBlyr4zy6_Vt9!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMoK7a4ASJSdLotFzjmO5uFNEUNBlyr4zy6_Vt9%3Dw152-h86-k-no!7i3840!8i2160!4m7!3m6!1s0x60188bcaeb0cd12b:0x20e563a2e0aec969!8m2!3d35.659482!4d139.7005596!10e5!16s%2Fg%2F11shy4scrj?entry=ttu)
+澀谷站前的十字路口據說是世界上最繁忙、最擁擠的十字路口。數千人同時穿越馬路的壯觀景象使這個澀谷路口成為代表東京的地標景點。從連接JR山手線與京王井之頭線的連絡橋上，可以俯瞰到交叉路口上人們來來往往的繁忙景象。
+
+每當信號燈變為綠燈時，十字路口便會瞬間被人潮淹沒。最多時竟會有約3,000人在大約2分鐘的時間內同時在十字口交錯往來。行人們在密集的人潮中穿梭自如卻互不相撞的場面相當壯觀，吸引許多攝影愛好者專門拜訪，想要捕捉一張超酷的十字路口照片。
+
+澀谷十字路口的正式名稱是澀谷站前交叉口（渋谷駅前交差点），路口周圍有許多大型螢幕和巨幅廣告，不間斷地播放著引領流行趨勢的各種廣告。
+![](20200609_085525_e2c2a6c7_w1920.jpg)
+
 
 ### Ref:
 
-[孤獨搖滾下北澤聖地巡禮](https://www.xiaohongshu.com/discovery/item/64b2948d000000001c00cdd9?app_platform=ios&app_version=8.33&share_from_user_hidden=true&type=normal&author_share=1&xhsshare=WeixinSession&shareRedId=ODlIMzk7PTo2NzUyOTgwNjZJOTg1NT9B&apptime=1714440758)
-[尋找辣個男人的家？下北澤聖地巡禮！探訪「孤獨搖滾」名場景](https://www.youtube.com/watch?v=-a_BdH4WuUk)
-[去下北澤朝聖《孤獨搖滾》取景地！STARRY的原型與街頭風景你都猜到在哪了嗎？](https://www.japaholic.com/tw/article/detail/925867-%E5%8E%BB%E4%B8%8B%E5%8C%97%E6%BE%A4%E6%9C%9D%E8%81%96%E3%80%8A%E5%AD%A4%E7%8D%A8%E6%90%96%E6%BB%BE%E3%80%8B%E5%8F%96%E6%99%AF%E5%9C%B0%EF%BC%81STARRY%E7%9A%84%E5%8E%9F%E5%9E%8B%E8%88%87%E8%A1%97%E9%A0%AD%E9%A2%A8%E6%99%AF%E4%BD%A0%E9%83%BD%E7%8C%9C%E5%88%B0%E5%9C%A8%E5%93%AA%E4%BA%86%E5%97%8E%EF%BC%9F)
-[達人專欄 《孤獨搖滾！》下北澤聖地巡禮](https://home.gamer.com.tw/creationDetail.php?sn=5595532)
+* [孤獨搖滾下北澤聖地巡禮](https://www.xiaohongshu.com/discovery/item/64b2948d000000001c00cdd9?app_platform=ios&app_version=8.33&share_from_user_hidden=true&type=normal&author_share=1&xhsshare=WeixinSession&shareRedId=ODlIMzk7PTo2NzUyOTgwNjZJOTg1NT9B&apptime=1714440758)
+* [尋找辣個男人的家？下北澤聖地巡禮！探訪「孤獨搖滾」名場景](https://www.youtube.com/watch?v=-a_BdH4WuUk)
+* [去下北澤朝聖《孤獨搖滾》取景地！STARRY的原型與街頭風景你都猜到在哪了嗎？](https://www.japaholic.com/tw/article/detail/925867-%E5%8E%BB%E4%B8%8B%E5%8C%97%E6%BE%A4%E6%9C%9D%E8%81%96%E3%80%8A%E5%AD%A4%E7%8D%A8%E6%90%96%E6%BB%BE%E3%80%8B%E5%8F%96%E6%99%AF%E5%9C%B0%EF%BC%81STARRY%E7%9A%84%E5%8E%9F%E5%9E%8B%E8%88%87%E8%A1%97%E9%A0%AD%E9%A2%A8%E6%99%AF%E4%BD%A0%E9%83%BD%E7%8C%9C%E5%88%B0%E5%9C%A8%E5%93%AA%E4%BA%86%E5%97%8E%EF%BC%9F)
+* [達人專欄 《孤獨搖滾！》下北澤聖地巡禮](https://home.gamer.com.tw/creationDetail.php?sn=5595532)
+* [一篇搞定！澀谷必去景點15選](https://www.gltjp.com/zh-hant/article/item/20511/)
